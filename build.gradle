@@ -1,0 +1,5 @@
+buildscript {
+	ext {
+   		resteasy_version="6.2.3.Final"
+	}
+}
